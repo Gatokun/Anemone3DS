@@ -534,7 +534,7 @@ const Language_s language_spanish = {
                 },
                 {
                     "\uE07B Explorar ThemePlaza",
-                    "\uE07C Install Badges"
+                    "\uE07C Instalar Insignias"
                 },
                 {
                     "\uE004 Menú de clasificación",
@@ -575,7 +575,7 @@ const Language_s language_spanish = {
         .zip_not_theme_splash = "El archivo ZIP descargado no es\nni un fondo ni un tema",
         .file_not_zip = "El archivo descargado no es un ZIP.",
         .download_failed = "Fallo en la descarga.",
-        .badge_question = "Theme or splash not detected.\nIs this a badge?",
+        .badge_question = "Tema o splash no detectado \n ¿Es esto una insignia?",
     },
     .draw =
     {
@@ -613,7 +613,7 @@ const Language_s language_spanish = {
         .delete_sd = "Eliminando de la SD...",
         .download_themes = "Descargando lista de temas, por favor espera...",
         .download_splashes = "Descargando lista de fondos, por favor espera...",
-        .download_badges = "Downloading badge list, please wait...",
+        .download_badges = "Descargando lista de insignias, por favor espera...",
         .download_preview = "Descargando vista previa, por favor espera...",
         .download_bgm = "Descargando BGM, por favor espera...",
         .dump_single = "Volcando tema, por favor espera...",
@@ -732,16 +732,16 @@ const Language_s language_spanish = {
             .info_line = NULL,
             .instructions = {
                 {
-                    "\uE000 Download badges",
-                    "\uE001 Go back"
+                    "\uE000 Descargar insignias",
+                    "\uE001 Volver"
                 },
                 {
-                    "\uE002 More options",
-                    "\uE003 Preview badges"
+                    "\uE002 Más opciones",
+                    "\uE003 Vista previa de las insignias"
                 },
                 {
-                    "\uE004 Previous page",
-                    "\uE005 Next page"
+                    "\uE004 Pagina anterior",
+                    "\uE005 Pagina siguiente"
                 },
                 {
                     "Exit",
@@ -764,8 +764,8 @@ const Language_s language_spanish = {
                     "\uE07C Recargar sin caché"
                 },
                 {
-                    "\uE004 Switch to Badges",
-                    "\uE005 Switch to Splashes"
+                    "\uE004 Cambiar a Insignias",
+                    "\uE005 Cambiar a Splashes"
                 },
                 {
                     "Salir",
@@ -785,8 +785,8 @@ const Language_s language_spanish = {
                     "\uE07C Recargar sin caché"
                 },
                 {
-                    "\uE004 Switch to Themes",
-                    "\uE005 Switch to Badges"
+                    "\uE004 Cambiar a Temas",
+                    "\uE005 Cambiar a Insignias"
                 },
                 {
                     "Salir",
@@ -806,8 +806,8 @@ const Language_s language_spanish = {
                     "\uE07C Recargar sin caché"
                 },
                 {
-                    "\uE004 Switch to Splashes",
-                    "\uE005 Switch to Themes"
+                    "\uE004 Cambiar a Splashes",
+                    "\uE005 Cambiar a Temas"
                 },
                 {
                     "Salir",
@@ -832,7 +832,7 @@ const Language_s language_spanish = {
     },
     .badges =
     {
-        .extdata_locked = "Ext Data Locked\nTry pressing the Home Button and then returning\nto Anemone3DS, or using the CIA version instead."
+        .extdata_locked = "Datos Adicionales Bloqueados\nIntenta presionando el botón Home y vuelve a\nAnemone3DS, o usa la version CIA en su lugar."
     }
 };
 
